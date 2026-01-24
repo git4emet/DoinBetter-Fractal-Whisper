@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "lanes": {
+    "north": {
+      "trust_threshold": 0.74,
+      "urgency_bias": 0.2
+    },
+    "east": {
+      "trust_threshold": 0.7,
+      "urgency_bias": 0.15
+    },
+    "south": {
+      "trust_threshold": 0.68,
+      "urgency_bias": 0.1
+    },
+    "west": {
+      "trust_threshold": 0.72,
+      "urgency_bias": 0.18
+    }
+  },
+  "tap_logging": {
+    "endpoint": "/api/viewport/tap",
+    "fields": ["time", "lane", "label", "emoji_hash", "intent_id"]
+  },
+  "render_logging": {
+    "endpoint": "/api/emoji/render",
+    "fields": ["time", "lane", "label", "ethics_verdict", "tile_id"]
+  }
+}
