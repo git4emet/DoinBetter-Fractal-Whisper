@@ -1,0 +1,117 @@
+{
+  "generated_at": "2026-01-24T20:07:44Z",
+  "input": "chat://user-uploads",
+  "count": 10,
+  "entries": [
+    {
+      "path": "chat://image-01",
+      "filename": "user-upload-01",
+      "sha256": null,
+      "bytes": null,
+      "mime": "image/png",
+      "indexed_at": "2026-01-24T20:07:44Z",
+      "size": null,
+      "caption": "Screenshot of a Grok project page (simplyBuddy) with a dark UI, instructions panel, and a share URL input at the bottom.",
+      "ocr_text": "https://grok.com/share/"
+    },
+    {
+      "path": "chat://image-02",
+      "filename": "user-upload-02",
+      "sha256": null,
+      "bytes": null,
+      "mime": "image/png",
+      "indexed_at": "2026-01-24T20:07:44Z",
+      "size": null,
+      "caption": "Abstract digital artwork showing glowing cubes and data-like streams converging in a nebula of light.",
+      "ocr_text": null
+    },
+    {
+      "path": "chat://image-03",
+      "filename": "user-upload-03",
+      "sha256": null,
+      "bytes": null,
+      "mime": "image/png",
+      "indexed_at": "2026-01-24T20:07:44Z",
+      "size": null,
+      "caption": "Abstract polyhedral structures floating in a starry field with purple-blue light trails.",
+      "ocr_text": null
+    },
+    {
+      "path": "chat://image-04",
+      "filename": "user-upload-04",
+      "sha256": null,
+      "bytes": null,
+      "mime": "image/png",
+      "indexed_at": "2026-01-24T20:07:44Z",
+      "size": null,
+      "caption": "Poster-style graphic titled 'ChatGPT Mobiius Unified Module Integration Plan' with a futuristic HUD frame.",
+      "ocr_text": "ChatGPT Mobiius Unified Module Integration Plan"
+    },
+    {
+      "path": "chat://image-05",
+      "filename": "user-upload-05",
+      "sha256": null,
+      "bytes": null,
+      "mime": "image/png",
+      "indexed_at": "2026-01-24T20:07:44Z",
+      "size": null,
+      "caption": "Geometric network diagram: a glowing starburst of nodes connected by thin lines on a dark background.",
+      "ocr_text": null
+    },
+    {
+      "path": "chat://image-06",
+      "filename": "user-upload-06",
+      "sha256": null,
+      "bytes": null,
+      "mime": "image/png",
+      "indexed_at": "2026-01-24T20:07:44Z",
+      "size": null,
+      "caption": "Figure-eight torus-like lattice with labels and vector text in a sci-fi style.",
+      "ocr_text": "192x168x256 Vector-Intent-Glyph-streams\nFano Domain-Nodes\nState Decks"
+    },
+    {
+      "path": "chat://image-07",
+      "filename": "user-upload-07",
+      "sha256": null,
+      "bytes": null,
+      "mime": "image/png",
+      "indexed_at": "2026-01-24T20:07:44Z",
+      "size": null,
+      "caption": "Poster-style graphic titled 'Möbius Core Initializer Template (Extensions-Ready v0.6.0 Draft)' with section headings and body text.",
+      "ocr_text": "Möbius Core Initializer Template (Extensions-Ready v0.6.0 Draft)\nBoot Handshake (Init Chant)\nSystem Doctrine and Mode/Domain"
+    },
+    {
+      "path": "chat://image-08",
+      "filename": "user-upload-08",
+      "sha256": null,
+      "bytes": null,
+      "mime": "image/png",
+      "indexed_at": "2026-01-24T20:07:44Z",
+      "size": null,
+      "caption": "Photo of a laptop screen showing a dark analytics dashboard with multiple charts and panels.",
+      "ocr_text": null
+    },
+    {
+      "path": "chat://image-09",
+      "filename": "user-upload-09",
+      "sha256": null,
+      "bytes": null,
+      "mime": "image/png",
+      "indexed_at": "2026-01-24T20:07:44Z",
+      "size": null,
+      "caption": "Screenshot of multiple Firefox windows: a ChatGPT conversation and a research article page with image panels.",
+      "ocr_text": "ChatGPT"
+    },
+    {
+      "path": "chat://image-10",
+      "filename": "user-upload-10",
+      "sha256": null,
+      "bytes": null,
+      "mime": "image/png",
+      "indexed_at": "2026-01-24T20:07:44Z",
+      "size": null,
+      "caption": "Screenshot of Microsoft Copilot library with a grid of black-and-white icon sets and illustrative tiles.",
+      "ocr_text": "Library"
+    }
+  ]
+}
