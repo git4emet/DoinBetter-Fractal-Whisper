@@ -1,0 +1,21 @@
+{
+  "matrix": "guardian-ethics-lane-trigger",
+  "version": 1,
+  "lanes": [
+    {
+      "lane": "trust",
+      "trigger": "positive",
+      "description": "Signals verified trust and stability in glyph rendering."
+    },
+    {
+      "lane": "caution",
+      "trigger": "warning",
+      "description": "Signals render drift or anomaly requiring review."
+    },
+    {
+      "lane": "critical",
+      "trigger": "halt",
+      "description": "Signals ethics violation or render chain fault."
+    }
+  ]
+}

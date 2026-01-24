@@ -1,0 +1,11 @@
+{
+  "registry": "heyMicojava",
+  "tilesheet": "assets/tilesheet.json",
+  "intents": [
+    {
+      "id": "heyMicojava",
+      "source": "assets/heyMicojava_labels_svg_morning",
+      "description": "Renderable intents sourced from heyMicojava SVG glyphs."
+    }
+  ]
+}
