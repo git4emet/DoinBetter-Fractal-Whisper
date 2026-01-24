@@ -1,0 +1,35 @@
+<svg width="480" height="320" viewBox="0 0 480 320" xmlns="http://www.w3.org/2000/svg">
+  <metadata id="edge-clipboard-01">
+    {
+      "edge_id": "edge-clipboard-01",
+      "intent": "Icon",
+      "lane": 7,
+      "emoji_hint": "📎",
+      "palette": "default"
+    }
+  </metadata>
+
+  <metadata id="edge-text-hero-01">
+    {
+      "edge_id": "edge-text-hero-01",
+      "intent": "Text",
+      "lane": 3,
+      "emoji_hint": "💬",
+      "palette": "default"
+    }
+  </metadata>
+
+  <metadata id="edge-decor-01">
+    {
+      "edge_id": "edge-decor-01",
+      "intent": "Decorative",
+      "lane": 12,
+      "emoji_hint": "✨",
+      "palette": "ambient"
+    }
+  </metadata>
+
+  <rect x="40" y="40" width="140" height="140" rx="12" fill="#1e1e24" />
+  <rect x="220" y="40" width="220" height="80" rx="12" fill="#2b2b38" />
+  <rect x="220" y="140" width="220" height="140" rx="12" fill="#1c1c22" />
+</svg>
