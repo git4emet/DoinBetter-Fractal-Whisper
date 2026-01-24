@@ -1,0 +1,12 @@
+{
+  "intent_registry": "heyMicojava",
+  "tilesheet": "build/tilesheet.json",
+  "source_dir": "assets/heyMicojava_labels_svg_morning",
+  "metadata_fields": [
+    "lane",
+    "palette",
+    "tile_size",
+    "edge_path_id",
+    "label"
+  ]
+}
